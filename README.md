@@ -1,4 +1,4 @@
-# Callsquare
+# Callsquare.
 
 > **Warning**
 > This is a work-in-progress and not the finished product.
